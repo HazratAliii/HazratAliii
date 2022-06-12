@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋, my name is Hazrat Ali
+#### Web developer
+![Web developer](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 
-<!--
-**HazratAliii/HazratAliii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I WRITE CODE
 
-Here are some ideas to get you started:
+Skills: EXPRESS / REACT / BOOTSTRAP / MONGOOSE / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my own project. 
+- 🌱 I’m currently learning MERN stack 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HazratAliii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//hazrat-ali-354235190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hazrat_ali11/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/hazrat-ali)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HazratAliii)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HazratAliii)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HazratAliii&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/HazratAliii)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HazratAliii)  
+
+![Profile views](https://gpvc.arturio.dev/HazratAliii)  
