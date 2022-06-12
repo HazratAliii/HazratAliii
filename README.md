@@ -4,7 +4,7 @@
 
 I WRITE CODE
 
-Skills: EXPRESS / REACT / BOOTSTRAP / MONGOOSE / JS / HTML / CSS
+Skills: EXPRESS / REACTJS / BOOTSTRAP / MONGOOSE / JS / HTML / CSS
 
 - 🔭 I’m currently working on my own project. 
 - 🌱 I’m currently learning MERN stack 
