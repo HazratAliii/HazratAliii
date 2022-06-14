@@ -7,7 +7,7 @@ I WRITE CODE
 Skills: EXPRESS / REACTJS / BOOTSTRAP / MONGOOSE / JS / HTML / CSS
 
 - 🔭 I’m currently working on my own project. 
-- 🌱 I’m currently learning MERN stack 
+- 🌱 I’m currently learning MERN stack. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HazratAliii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//hazrat-ali-354235190/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hazrat_ali11/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/hazrat-ali)  
