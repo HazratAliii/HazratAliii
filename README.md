@@ -6,7 +6,7 @@
 
 I WRITE CODE
 
-Skills: EXPRESS JS / NEST JS / Next JS/ REACT JS / Tailwind / BOOTSTRAP / MONGOOSE / JavaScript / TypeScript / HTML / CSS
+Skills: EXPRESS JS / NEST JS / NEXT JS/ REACT JS / TAILWIND / BOOTSTRAP / MONGOOSE / JAVASCRIPT / TYPESCRIPT / HTML / CSS
 
 - 🔭 I’m currently working at ArisafTech LTD. as a fullstack software Engineer
 - 🌱 I’m currently learning new fullstack technologies.
